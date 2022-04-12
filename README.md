@@ -84,6 +84,4 @@ The INC files are available on OEX with ZPM
 [Demo Server WebTerminal](https://cos-isos-foreach.demo.community.intersystems.com/terminal/)    
         
 **Code Quality**   
-<img width="85%" src="
-https://openexchange.intersystems.com/mp/img/packages/1775/screenshots/dj0okgvnqubehrqtwizisudo.jpg
-">
+<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1780/screenshots/vqaho0gtnxoyumbrlkwhhsufdio.jpg">
