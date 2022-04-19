@@ -76,7 +76,7 @@ DEMO>zzforeach "^rcc;show^dump(%array,%key,%val);-1;3"
 ^rcc(1) = 1
 ~~~
 
-The INC files are available on OEX with ZPM  
+The INC files are available on OEX with ZPM      
 
 [Article in DC](https://community.intersystems.com/post/foreach-objectscript)  
 
