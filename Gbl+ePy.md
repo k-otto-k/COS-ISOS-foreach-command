@@ -1,4 +1,5 @@
-My major interest in Embedded Python is working with Globals.   
+My major interest  is 
+# Working with Globals in Embedded Python.   
 So I checked the available official documentation.
 #### 1 [Introduction to Globals](https://docs.intersystems.com/iris20221/csp/docbook/DocBook.UI.Page.cls?KEY=GORIENT_ch_intro#GORIENT_intro_globals)  
 - an attempt of a generic description what a global is.   
