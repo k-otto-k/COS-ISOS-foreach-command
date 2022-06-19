@@ -137,7 +137,7 @@ It works as expected.
    >>> glob[None]=9
    >>> glob.data([None])
    11
-   >>> glob.data([1,2])
+   >>> glob.data([1,1])
    1
    >>> glob.data([1,3])
    0
