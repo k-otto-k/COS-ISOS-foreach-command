@@ -19,7 +19,7 @@ To be clear what I expect:
 ## SET, GET, KILL of a Global node
 [Native API: Fundamental Node Operations](https://docs.intersystems.com/iris20221/csp/docbook/DocBook.UI.Page.cls?KEY=BPYNAT_globals#BPYNAT_globals_nodes)  
 and      
-## Navigation with $DATA(), $ORDER(), $QUERY()]
+## Navigation with $DATA(), $ORDER(), $QUERY()
 [Native API: Iteration with nextSubscript() and isDefined()](https://docs.intersystems.com/iris20221/csp/docbook/DocBook.UI.Page.cls?KEY=BPYNAT_globals#BPYNAT_globals_orderdata)    
 So I had to investigate, reverse engineer it and experiment myself.   
 And this are my findings.    
