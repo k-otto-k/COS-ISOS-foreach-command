@@ -76,12 +76,4 @@ DEMO>zzforeach "^rcc;show^dump(%array,%key,%val);-1;3"
 ^rcc(1) = 1
 ~~~
 
-The INC files are available on OEX with ZPM      
-
 [Article in DC](https://community.intersystems.com/post/foreach-objectscript)  
-
-[Demo Server SMP](https://cos-isos-foreach.demo.community.intersystems.com/csp/sys/UtilHome.csp)   
-[Demo Server WebTerminal](https://cos-isos-foreach.demo.community.intersystems.com/terminal/)    
-        
-**Code Quality**   
-<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1780/screenshots/vqaho0gtnxoyumbrlkwhhsufdio.jpg">
