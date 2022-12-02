@@ -10,7 +10,7 @@ There are 2 possible solutions:
 Both ways are presented here.  
 The macro is a generic and quite flexible solution and easy to adapt if required.  
 ```
-##;FOREACHMACRO ; macro definitions
+##; ZFOREACHMACRO ; macro definitions
 ##; %key = variable provide to loop trough array
 ##; %arr = the gobal or local array to be looped on
 ##; %the method or routine to be executed for each node.
@@ -21,7 +21,7 @@ The macro is a generic and quite flexible solution and easy to adapt if required
 You simply include the macro and apply it.  
 Example:  
 ~~~
-#include FOREACHMACRO   
+#include ZFOREACHMACRO   
 test $$$foreach(key,^rcc,show)   
      quit
 show zwrite @$zr,! quit   
